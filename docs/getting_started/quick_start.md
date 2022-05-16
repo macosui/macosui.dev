@@ -54,4 +54,4 @@ Follow the prompts to set your preferred configuration for the app. Once the pro
 Depending on the configuration you chose, the application should look something like this:
 ![starter_app](../../static/img/starter_app.png)
 
-For more details on configuring your starter application, check out the [`macosui_starter`](https://brickhub.dev/bricks/macosui_starter/1.0.0) listing on [brickhub.dev](https://brickhub.dev).
+For more details on configuring your starter application, check out the [`macosui_starter`](https://brickhub.dev/bricks/macosui_starter/1.1.0) listing on [brickhub.dev](https://brickhub.dev).
