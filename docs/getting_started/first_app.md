@@ -61,7 +61,7 @@ As with `MaterialApp` and `CupertinoApp`, `MacosApp` acts as a convenience wrapp
 
 `MacosApp` is built on top of a `CupertinoApp`. All the properties you'd expect a `CupertinoApp` to have are available for a `MacosApp`, such as `builder`, `navigatorKey`, `routes`, and `localizationsDelegate`. To view the full list of `MacosApp`'s available properties, please see the [technical documentation](https://pub.dev/documentation/macos_ui/latest/macos_ui/MacosApp-class.html) on pub.dev.
 
-If at this point you are wondering how to manage targeting multiple platforms while using the appropriate widget libraries (such as `material` for mobile, `fluent_ui` for Windows, and `macos_ui` for macOS), all of which expect their own root application widget, don't fret - this can be done relatively easily and there is a special codelab for this.
+If at this point you are wondering how to manage targeting multiple platforms while using the appropriate widget libraries (such as `material` for mobile, `fluent_ui` for Windows, and `macos_ui` for macOS), all of which expect their own root application widget, don't fret - this can be done relatively easily and there is a special codelab for this coming soon!
 :::
 
 ## Step 3: Add some UI

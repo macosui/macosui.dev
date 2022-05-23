@@ -29,7 +29,7 @@ $ brew install mason
 
 ### Step 2: Install the starter template
 
-This step installs the [`macosui_starter`](https://brickhub.dev/bricks/macosui_starter/1.2.0) application template from [brickub.dev](https://brickhub.dev) so that you can use it.
+This step installs the [`macosui_starter`](https://brickhub.dev/bricks/macosui_starter/1.2.1) application template from [brickub.dev](https://brickhub.dev) so that you can use it.
 
 ```sh
 # Install to a particular directory
@@ -54,4 +54,4 @@ Follow the prompts to set your preferred configuration for the app. Once the pro
 Depending on the configuration you chose, the application should look something like this:
 ![starter_app](../../static/img/starter_app.png)
 
-For more details on configuring your starter application, check out the [`macosui_starter`](https://brickhub.dev/bricks/macosui_starter/1.2.0) listing on [brickhub.dev](https://brickhub.dev).
+For more details on configuring your starter application, check out the [Generating Starter Apps](../starter_apps) guide.
