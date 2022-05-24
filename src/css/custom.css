@@ -31,6 +31,7 @@
 }
 
 .widgetGallery {
+  border-radius: 7px;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   width: 80%;
   height: 700px;
