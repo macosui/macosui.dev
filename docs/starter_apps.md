@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Overview
 
-Using [`package:mason_cli`](https://pub.dev/packages/mason_cli) you can use the [`macosui_starter`](https://brickhub.dev/bricks/macosui_starter/1.2.1) brick to generate starter applications in seconds. This guide walks you through the process of doing so in detail.
+Using [`package:mason_cli`](https://pub.dev/packages/mason_cli) you can use the [`macosui_starter`](https://brickhub.dev/bricks/macosui_starter/) brick to generate starter applications in seconds. This guide walks you through the process of doing so in detail.
 
 ## Getting set up
 
