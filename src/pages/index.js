@@ -67,7 +67,7 @@ function Spacer() {
 function TwitterButton() {
   return (
     <Follow
-      username="GroovinChip"
+      username="macos_ui"
       options={{
         dnt: true,
         size: "small",
@@ -86,10 +86,10 @@ function GitHubStarButton() {
   return (
     <div className="github-button">
       <GitHubButton
-        href="https://github.com/GroovinChip/macos_ui"
+        href="https://github.com/macosui/macos_ui"
         data-show-count="true"
         // data-size="large"
-        aria-label="Star GroovinChip/macos_ui on GitHub"
+        aria-label="Star macosui/macos_ui on GitHub"
       >
         Star
       </GitHubButton>
